@@ -4,8 +4,9 @@ import Particlestest from './Particlestest';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Particlestest />
+      <img src="/photo.jpg" alt="" className="w-screen h-screen"/>
     </div>
   );
 }
